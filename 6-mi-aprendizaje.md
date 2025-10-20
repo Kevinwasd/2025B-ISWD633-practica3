@@ -1,3 +1,1 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado o utilizó otros comandos que no se mencionan al realizar la práctica también se debe documentar.
+En esta práctica, aprendí a manejar los volúmenes en Docker y a distinguir entre los volúmenes nombrados, los anónimos y los bind mounts. Esto me permitió observar cómo los archivos se sincronizan directamente entre mi sistema y el contenedor. A diferencia del ejercicio anterior, esta vez, al eliminar el contenedor, no perdí el contenido, ya que los datos se mantenían en la carpeta local, incluyendo el template que descargué de WordPress.
